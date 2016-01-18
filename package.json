@@ -1,0 +1,23 @@
+{
+  "name": "protractor-test",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "",
+  "main": "",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Rodrigo Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "devDependencies": {
+    "protractor": "^3.0.0"
+  }
+}
